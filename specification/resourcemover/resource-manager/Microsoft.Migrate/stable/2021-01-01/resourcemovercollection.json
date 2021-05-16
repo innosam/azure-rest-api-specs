@@ -607,7 +607,7 @@
             "in": "query",
             "required": false,
             "type": "string",
-            "description": "OData order by query option. For example, you can use $orderby=Count desc."
+            "description": "OData order by query  option. For example, you can use $orderby=Count desc."
           },
           {
             "$ref": "#/parameters/api-version"
